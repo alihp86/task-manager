@@ -7,3 +7,7 @@ A simple task management application.
 - Create task
 - Update task
 - Delete task
+
+## Project Status
+
+The Task Manager project is actively developed for report feature.
